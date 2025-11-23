@@ -1,4 +1,2 @@
 # UBT
-## User Behavior Tracker
-
-Further details comming soon\
+User Behavior Tracker - Further details comming soon
