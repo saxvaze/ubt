@@ -2,7 +2,10 @@
   "name": "@my-org/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "build:tracker": "nx build tracker",
+    "build:api": "nx build api"
+  },
   "private": true,
   "devDependencies": {
     "@eslint/js": "^9.8.0",

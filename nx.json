@@ -56,5 +56,8 @@
         "^production"
       ]
     }
+  },
+  "sync": {
+    "applyChanges": false
   }
 }
