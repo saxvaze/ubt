@@ -5,7 +5,9 @@
   "scripts": {
     "build:tracker": "nx build tracker",
     "build:api": "nx build api",
-    "gen:ng:app": "nx g @nx/angular:application apps/tester"
+    "gen:ng:app": "nx g @nx/angular:application apps/tester",
+    "serve:tester": "nx serve tester --port=5001",
+    "serve:api": "PORT=5002 nx serve api"
   },
   "private": true,
   "devDependencies": {
