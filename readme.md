@@ -8,7 +8,7 @@
   [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/your-username/your-repo)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg?style=flat-square)](http://makeapullrequest.com)
-  [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](https://semver.org)
+  [![Version](https://img.shields.io/badge/version-0.0.1-blue?style=flat-square)](https://semver.org)
 
   <p>
     <b>UBT</b> is a lightweight, privacy-first analytics engine that records user sessions as high-fidelity video. <br/>
